@@ -1,0 +1,15 @@
+name: "Ela Elangovan"
+output_dir: "docs"
+navbar:
+  title: "Data Visualisation with R"
+  left:
+    - text: "Home"
+      href: assignment.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    highlight: textmate
+    css: styles.css
